@@ -112,7 +112,7 @@ Higher entropy means better protection against attacks.
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/seifbadreldinx/PasswordManager.git
+git clone https://github.com/KareemAbdelalim11/Secure-Password-Encryption-System.git
 cd PasswordManager
 ```
 
